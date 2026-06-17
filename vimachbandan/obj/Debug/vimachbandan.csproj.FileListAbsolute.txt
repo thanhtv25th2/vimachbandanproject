@@ -1,0 +1,11 @@
+C:\Users\thaiq\source\repos\vimachbandan\vimachbandan\bin\Debug\vimachbandan.exe.config
+C:\Users\thaiq\source\repos\vimachbandan\vimachbandan\bin\Debug\vimachbandan.exe
+C:\Users\thaiq\source\repos\vimachbandan\vimachbandan\bin\Debug\vimachbandan.pdb
+C:\Users\thaiq\source\repos\vimachbandan\vimachbandan\obj\Debug\vimachbandan.csproj.AssemblyReference.cache
+C:\Users\thaiq\source\repos\vimachbandan\vimachbandan\obj\Debug\vimachbandan.Form1.resources
+C:\Users\thaiq\source\repos\vimachbandan\vimachbandan\obj\Debug\vimachbandan.Properties.Resources.resources
+C:\Users\thaiq\source\repos\vimachbandan\vimachbandan\obj\Debug\vimachbandan.csproj.GenerateResource.cache
+C:\Users\thaiq\source\repos\vimachbandan\vimachbandan\obj\Debug\vimachbandan.csproj.CoreCompileInputs.cache
+C:\Users\thaiq\source\repos\vimachbandan\vimachbandan\obj\Debug\vimachbandan.exe
+C:\Users\thaiq\source\repos\vimachbandan\vimachbandan\obj\Debug\vimachbandan.pdb
+C:\Users\thaiq\source\repos\vimachbandan\vimachbandan\obj\Debug\vimachbandan.exe.config
